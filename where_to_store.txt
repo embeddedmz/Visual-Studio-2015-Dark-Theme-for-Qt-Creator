@@ -1,0 +1,2 @@
+Windows : C:\Qt\Tools\QtCreator\share\qtcreator\styles
+GNU/Linux : ~/.config/QtProject/qtcreator/styles.
